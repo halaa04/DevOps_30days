@@ -1,1 +1,2 @@
 it's so good
+Git tracks changes line by line
