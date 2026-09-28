@@ -12,5 +12,5 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: '20'
-      - name: Run my script
-        run: node hello.js
+      - name: Run tests
+        run: node test.js
