@@ -8,4 +8,3 @@ if (result === 4) {
   console.log("Test failed! Expected 4 but got " + result);
   process.exit(1);
 }
-`
